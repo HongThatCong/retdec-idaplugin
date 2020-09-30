@@ -1,4 +1,3 @@
-
 #ifndef RETDEC_CONFIG_H
 #define RETDEC_CONFIG_H
 
