@@ -74,3 +74,7 @@ RetDec IDA plugin uses third-party libraries or other resources listed, along wi
 ## Contributing
 
 See [RetDec contribution guidelines](https://github.com/avast/retdec/wiki/Contribution-Guidelines).
+
+# Download binary build:
+Download tại:
+http://www.mediafire.com/file/yv116sv7ow2s4pu/retdec_ida_plugin_7x.7z/file
